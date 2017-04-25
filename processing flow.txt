@@ -1,0 +1,33 @@
+#------------------
+# author: Christiane Uhlig, Graduate School of Oceanography, URI
+# Version: 1.0 April 2017
+# Email: cuhlig@uri.edu
+#------------------
+
+# Uhlig, C., Loose, B., Using stable isotopes and gas concentrations for independent constraints on microbial methane oxidation at Arctic Ocean temperatures,
+# Limnology & Oceanography Methods (under review)
+
+#------------------
+
+Data processing steps
+
+Methane oxidation rates from mass balance and isotope ratios
+
+Example for HP Barrow data. Other concentration ranges and sample areas accordingly.
+
+path incubations/Barrow/
+
+1. merge SSIM files with SSIM log file (code not included, example of SSIM log file provided)
+
+2. correct samples in low concentration range for isotope effect (code not included)
+
+3. subset to separate samples & add additional information (salinity, headspace volume)
+	-> bags.Barrow.R 
+	
+4. calibrate data, calculate headspace and dissolved concentrations, calculate k.ox
+	-> calculations_Barrow_HP.R
+
+5. summarize data for plots
+	-> summarize_data_for_plots.R
+
+

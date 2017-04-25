@@ -1,0 +1,23 @@
+lookupVariable,lookupValue,newVariable,newValue
+treatment,Nbay in situ,V.hs.removed,0
+treatment,Nbay in situ,T.equil,18
+treatment,Nbay in situ,sal,33.1
+treatment,Nbay in situ,time.days,NaN
+treatment,Nbay 1x,T.equil,18
+treatment,Nbay 1x,sal,33.1
+treatment,Nbay 1x,V.hs.initial,0.11
+treatment,Nbay 50x,T.equil,18
+treatment,Nbay 50x,sal,33.1
+treatment,Nbay 50x,V.hs.initial,0.15
+treatment,Nbay 500x,T.equil,18
+treatment,Nbay 500x,sal,33.1
+treatment,Nbay 500x,V.hs.initial,0.1
+treatment,Bcubi 1x,T.equil,0
+treatment,Bcubi 1x,sal,34.8
+treatment,Bcubi 1x,V.hs.initial,0.11
+treatment,Bcubi 50x,T.equil,0
+treatment,Bcubi 50x,sal,34.8
+treatment,Bcubi 50x,V.hs.initial,0.15
+treatment,Bcubi 500x,T.equil,0
+treatment,Bcubi 500x,sal,34.8
+treatment,Bcubi 500x,V.hs.initial,0.1

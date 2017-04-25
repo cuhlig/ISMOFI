@@ -1,0 +1,35 @@
+lookupVariable,lookupValue,newVariable,newValue
+Date,04/05/16,T.equil,0
+Date,04/06/16,T.equil,0
+Date,04/08/16,T.equil,0
+Date,04/11/16,T.equil,0
+Date,04/13/16,T.equil,0
+Date,04/14/16,T.equil,0
+Date,04/15/16,T.equil,0
+Date,04/16/16,T.equil,0
+Date,04/17/16,T.equil,0
+Date,04/18/16,T.equil,0
+Date,04/19/16,T.equil,0
+Date,04/20/16,T.equil,0
+Date,05/20/16,T.equil,1
+Date,05/25/16,T.equil,1
+
+treatment,in situ,T.equil,28.5
+
+treatment,in situ,V.hs.initial,0.1
+treatment,0.1x EL,V.hs.initial,0.1
+treatment,50x EL,V.hs.initial,0.15
+treatment,0.1x,V.hs.initial,0.1
+treatment,50x,V.hs.initial,0.15
+treatment,ambient,V.hs.initial,0.11
+treatment,500x Peri,V.hs.initial,0.1
+treatment,500x Subm,V.hs.initial,0.1
+
+treatment,in situ,sal,34.99
+treatment,0.1x EL,sal,36.0333
+treatment,50x EL,sal,36.0333
+treatment,0.1x,sal,34.695
+treatment,50x,sal,34.695
+treatment,ambient,sal,34.81692308
+treatment,500x Peri,sal,34.81692308
+treatment,500x Subm,sal,34.81692308

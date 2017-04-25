@@ -1,0 +1,8 @@
+lookupVariable,lookupValue,newVariable,newValue,source
+id, 1, species, "Banksia oblongifolia", Daniel Falster
+id, 2, species, "Banksia ericifolia", Daniel Falster
+id, 3, species, "Banksia serrata", Daniel Falster
+id, 4, species, "Banksia grandis", Daniel Falster
+,,family, "Proteaceae", Daniel Falster
+,,location, "NSW", Daniel Falster
+id,4,location, "WA", Daniel Falster

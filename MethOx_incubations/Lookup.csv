@@ -1,0 +1,292 @@
+lookupVariable,lookupValue,newVariable,newValue
+sample.ID,1,m.water,902.89
+sample.ID,2,m.water,875.81
+sample.ID,3,m.water,913.27
+sample.ID,4,m.water,885.5
+sample.ID,5,m.water,636.42
+sample.ID,6,m.water,837.37
+sample.ID,7,m.water,606.57
+sample.ID,8,m.water,908.2
+sample.ID,9,m.water,726.88
+sample.ID,10,m.water,679.03
+sample.ID,11,m.water,804.73
+sample.ID,12,m.water,879.19
+sample.ID,13,m.water,799.06
+sample.ID,14,m.water,762.1
+sample.ID,15,m.water,846.33
+sample.ID,16,m.water,846.95
+sample.ID,17,m.water,876.49
+sample.ID,18,m.water,800.6
+sample.ID,19,m.water,804.88
+sample.ID,20,m.water,814.22
+sample.ID,21,m.water,853.92
+sample.ID,22,m.water,834.78
+sample.ID,23,m.water,855.56
+sample.ID,24,m.water,865.3
+sample.ID,25,m.water,1003.79
+sample.ID,26,m.water,856.2
+sample.ID,27,m.water,738.98
+sample.ID,28,m.water,912.59
+sample.ID,29,m.water,738.82
+sample.ID,30,m.water,478.57
+sample.ID,32,m.water,834.17
+sample.ID,33,m.water,712.96
+sample.ID,34,m.water,461.22
+sample.ID,35,m.water,774.27
+sample.ID,36,m.water,810.47
+sample.ID,37,m.water,724.28
+sample.ID,38,m.water,746.51
+sample.ID,39,m.water,906.13
+sample.ID,40,m.water,784.75
+sample.ID,41,m.water,894.85
+sample.ID,42,m.water,817.43
+sample.ID,43,m.water,847.84
+sample.ID,44,m.water,636.18
+sample.ID,45,m.water,722.43
+sample.ID,46,m.water,881.64
+sample.ID,47,m.water,1016.33
+sample.ID,48,m.water,994.06
+sample.ID,49,m.water,803.51
+sample.ID,50,m.water,935.03
+sample.ID,51,m.water,800.25
+sample.ID,52,m.water,745.11
+sample.ID,53,m.water,793.25
+sample.ID,54,m.water,885.74
+sample.ID,55,m.water,964.61
+sample.ID,56,m.water,888.12
+sample.ID,57,m.water,866.83
+sample.ID,58,m.water,888.41
+sample.ID,59,m.water,868.39
+sample.ID,60,m.water,792.82
+sample.ID,61,m.water,782.47
+sample.ID,62,m.water,899.89
+sample.ID,63,m.water,809.82
+sample.ID,64,m.water,817.935
+sample.ID,65,m.water,885.07
+sample.ID,66,m.water,945.63
+sample.ID,67,m.water,873.615
+sample.ID,68,m.water,874.295
+sample.ID,69,m.water,822.62
+sample.ID,70,m.water,892.11
+sample.ID,71,m.water,865.75
+sample.ID,72,m.water,905.675
+sample.ID,73,m.water,824.425
+
+sample.ID,1,treatment,in situ
+sample.ID,2,treatment,in situ
+sample.ID,3,treatment,in situ
+sample.ID,4,treatment,in situ
+sample.ID,5,treatment,in situ
+sample.ID,6,treatment,in situ
+sample.ID,7,treatment,0.1x EL
+sample.ID,8,treatment,50x EL
+sample.ID,9,treatment,in situ
+sample.ID,10,treatment,0.1x
+sample.ID,11,treatment,50x
+sample.ID,12,treatment,in situ
+sample.ID,13,treatment,0.1x
+sample.ID,14,treatment,50x
+sample.ID,15,treatment,in situ
+sample.ID,16,treatment,0.1x
+sample.ID,17,treatment,50x
+sample.ID,18,treatment,in situ
+sample.ID,19,treatment,0.1x
+sample.ID,20,treatment,50x
+sample.ID,21,treatment,in situ
+sample.ID,22,treatment,0.1x
+sample.ID,23,treatment,50x
+sample.ID,24,treatment,50x
+sample.ID,25,treatment,500x Subm
+sample.ID,26,treatment,ambient
+sample.ID,27,treatment,500x Peri
+sample.ID,28,treatment,500x Subm
+sample.ID,29,treatment,ambient
+sample.ID,30,treatment,500x Peri
+sample.ID,32,treatment,500x Subm
+sample.ID,33,treatment,ambient
+sample.ID,34,treatment,500x Peri
+sample.ID,35,treatment,500x Subm
+sample.ID,36,treatment,500x Subm
+sample.ID,37,treatment,ambient
+sample.ID,38,treatment,500x Peri
+sample.ID,39,treatment,in situ
+sample.ID,40,treatment,in situ
+sample.ID,41,treatment,in situ
+sample.ID,42,treatment,in situ
+sample.ID,43,treatment,in situ
+sample.ID,44,treatment,500x Peri
+sample.ID,45,treatment,in situ
+sample.ID,46,treatment,in situ
+sample.ID,47,treatment,in situ
+sample.ID,48,treatment,in situ
+sample.ID,49,treatment,in situ
+sample.ID,50,treatment,Nbay 1x
+sample.ID,51,treatment,Nbay 1x
+sample.ID,52,treatment,Nbay 1x
+sample.ID,53,treatment,Nbay 1x
+sample.ID,54,treatment,Nbay in situ
+sample.ID,55,treatment,Nbay in situ
+sample.ID,56,treatment,Nbay 50x
+sample.ID,57,treatment,Nbay 500x
+sample.ID,58,treatment,Nbay 50x
+sample.ID,59,treatment,Nbay 50x
+sample.ID,60,treatment,Nbay 500x
+sample.ID,61,treatment,Nbay 50x
+sample.ID,62,treatment,Bcubi 1x
+sample.ID,63,treatment,Bcubi 1x
+sample.ID,64,treatment,Bcubi 1x
+sample.ID,65,treatment,Bcubi 1x
+sample.ID,66,treatment,Bcubi 50x
+sample.ID,67,treatment,Bcubi 50x
+sample.ID,68,treatment,Bcubi 50x
+sample.ID,69,treatment,Bcubi 50x
+sample.ID,70,treatment,Bcubi 500x
+sample.ID,71,treatment,Bcubi 500x
+sample.ID,72,treatment,Bcubi 500x
+sample.ID,73,treatment,Bcubi 500x
+sample.ID,1,sample.date,20160405
+sample.ID,2,sample.date,20160405
+sample.ID,3,sample.date,20160405
+sample.ID,4,sample.date,20160405
+sample.ID,5,sample.date,20160405
+sample.ID,6,sample.date,20160407
+sample.ID,7,sample.date,20160407
+sample.ID,8,sample.date,20160407
+sample.ID,9,sample.date,20160407
+sample.ID,10,sample.date,20160407
+sample.ID,11,sample.date,20160407
+sample.ID,12,sample.date,20160407
+sample.ID,13,sample.date,20160407
+sample.ID,14,sample.date,20160407
+sample.ID,15,sample.date,20160407
+sample.ID,16,sample.date,20160407
+sample.ID,17,sample.date,20160407
+sample.ID,18,sample.date,20160407
+sample.ID,19,sample.date,20160407
+sample.ID,20,sample.date,20160407
+sample.ID,21,sample.date,20160407
+sample.ID,22,sample.date,20160407
+sample.ID,23,sample.date,20160407
+sample.ID,24,sample.date,20160407
+sample.ID,25,sample.date,20160409
+sample.ID,26,sample.date,20160409
+sample.ID,27,sample.date,20160409
+sample.ID,28,sample.date,20160409
+sample.ID,29,sample.date,20160409
+sample.ID,30,sample.date,20160409
+sample.ID,31,sample.date,20160409
+sample.ID,32,sample.date,20160409
+sample.ID,33,sample.date,20160409
+sample.ID,34,sample.date,20160409
+sample.ID,35,sample.date,20160409
+sample.ID,36,sample.date,20160409
+sample.ID,37,sample.date,20160409
+sample.ID,38,sample.date,20160409
+sample.ID,39,sample.date,20160412
+sample.ID,40,sample.date,20160412
+sample.ID,41,sample.date,20160412
+sample.ID,42,sample.date,20160412
+sample.ID,43,sample.date,20160412
+sample.ID,44,sample.date,20160409
+sample.ID,45,sample.date,20160415
+sample.ID,46,sample.date,20160415
+sample.ID,47,sample.date,20160415
+sample.ID,48,sample.date,20160415
+sample.ID,49,sample.date,20160415
+sample.ID,50,sample.date,20160706
+sample.ID,51,sample.date,20160706
+sample.ID,52,sample.date,20160706
+sample.ID,53,sample.date,20160706
+sample.ID,54,sample.date,20160706
+sample.ID,55,sample.date,20160706
+sample.ID,56,sample.date,20160706
+sample.ID,57,sample.date,20160706
+sample.ID,58,sample.date,20160706
+sample.ID,59,sample.date,20160706
+sample.ID,60,sample.date,20160706
+sample.ID,61,sample.date,20160706
+sample.ID,62,sample.date,20160706
+sample.ID,63,sample.date,20160706
+sample.ID,64,sample.date,20160706
+sample.ID,65,sample.date,20160706
+sample.ID,66,sample.date,20160706
+sample.ID,67,sample.date,20160706
+sample.ID,68,sample.date,20160706
+sample.ID,69,sample.date,20160706
+sample.ID,70,sample.date,20160706
+sample.ID,71,sample.date,20160706
+sample.ID,72,sample.date,20160706
+sample.ID,73,sample.date,20160706
+sample.ID,1,sample.depth,11
+sample.ID,2,sample.depth,5
+sample.ID,3,sample.depth,2
+sample.ID,4,sample.depth,3.5
+sample.ID,5,sample.depth,1
+sample.ID,6,sample.depth,1.5
+sample.ID,7,sample.depth,1.5
+sample.ID,8,sample.depth,1.5
+sample.ID,9,sample.depth,6.5
+sample.ID,10,sample.depth,6.5
+sample.ID,11,sample.depth,6.5
+sample.ID,12,sample.depth,5
+sample.ID,13,sample.depth,5
+sample.ID,14,sample.depth,5
+sample.ID,15,sample.depth,3.5
+sample.ID,16,sample.depth,3.5
+sample.ID,17,sample.depth,3.5
+sample.ID,18,sample.depth,2
+sample.ID,19,sample.depth,2
+sample.ID,20,sample.depth,2
+sample.ID,21,sample.depth,1
+sample.ID,22,sample.depth,1
+sample.ID,23,sample.depth,1
+sample.ID,24,sample.depth,1
+sample.ID,25,sample.depth,1
+sample.ID,26,sample.depth,1
+sample.ID,27,sample.depth,1
+sample.ID,28,sample.depth,2
+sample.ID,29,sample.depth,2
+sample.ID,30,sample.depth,2
+sample.ID,31,sample.depth,2
+sample.ID,32,sample.depth,3.5
+sample.ID,33,sample.depth,3.5
+sample.ID,34,sample.depth,3.5
+sample.ID,35,sample.depth,5
+sample.ID,36,sample.depth,6.5
+sample.ID,37,sample.depth,6.5
+sample.ID,38,sample.depth,6.5
+sample.ID,39,sample.depth,1
+sample.ID,40,sample.depth,2
+sample.ID,41,sample.depth,3.5
+sample.ID,42,sample.depth,5
+sample.ID,43,sample.depth,6.5
+sample.ID,44,sample.depth,6.5
+sample.ID,45,sample.depth,1
+sample.ID,46,sample.depth,2
+sample.ID,47,sample.depth,3.5
+sample.ID,48,sample.depth,5
+sample.ID,49,sample.depth,6.5
+sample.ID,50,sample.depth,1
+sample.ID,51,sample.depth,1
+sample.ID,52,sample.depth,1
+sample.ID,53,sample.depth,1
+sample.ID,54,sample.depth,1
+sample.ID,55,sample.depth,1
+sample.ID,56,sample.depth,1
+sample.ID,57,sample.depth,1
+sample.ID,58,sample.depth,1
+sample.ID,59,sample.depth,1
+sample.ID,60,sample.depth,1
+sample.ID,61,sample.depth,1
+sample.ID,62,sample.depth,1
+sample.ID,63,sample.depth,1
+sample.ID,64,sample.depth,1
+sample.ID,65,sample.depth,1
+sample.ID,66,sample.depth,1
+sample.ID,67,sample.depth,1
+sample.ID,68,sample.depth,1
+sample.ID,69,sample.depth,1
+sample.ID,70,sample.depth,1
+sample.ID,71,sample.depth,1
+sample.ID,72,sample.depth,1
+sample.ID,73,sample.depth,1
