@@ -5,7 +5,7 @@
 #------------------
 
 # Uhlig, C., Loose, B., Using stable isotopes and gas concentrations for independent constraints on microbial methane oxidation at Arctic Ocean temperatures,
-# Limnology & Oceanography Methods (under review)
+# Limnology & Oceanography Methods (https://doi.org/10.1002/lom3.10199)
 
 #------------------
 
